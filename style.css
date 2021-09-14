@@ -1,0 +1,247 @@
+body{
+    margin: 0 auto;
+    width: 1440px;
+}
+.header{
+    padding: 27px 179px 164px;
+    display: flex;
+}
+.menu{
+    display: flex;
+    margin-left: 320px;
+}
+.button_3, .button_4{
+    padding: 10px;
+    font-size: 14px;
+    line-height: 16px;
+    color: #22356F;
+}
+.button_3{
+    border-bottom: 1px solid black;
+    font-weight: bold;
+}
+.title_conteiner_1{
+    height: 840px;
+    width: 100%;
+    display: flex;
+}
+.about_2{
+    height: 50px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #62D0DF;
+    border-radius: 50px;
+    margin-top: 27px;
+    margin-left: 42px;
+    color: white;
+    font-size: 14px;
+    line-height: 16px;
+}
+.title{
+    width: 1117px;
+    height: 840px;
+    background: #F4F9E2;
+}
+.title_word{
+    height: 520px;
+    width: 484px;
+    margin: 0 454px 75px 179px;
+}
+.name{
+    height: 64px;
+    font-size: 24px;
+    color: #62D0DF;
+    line-height: 27px;
+    letter-spacing: -0.035em;
+    font-weight: bold;
+}
+.name1{
+    font-size: 24px;
+    color: #62D0DF;
+    line-height: 27px;
+    letter-spacing: -0.035em;
+    font-weight: bold;
+}
+.heading{
+    height: 167px;
+    width: 484;
+    margin-bottom: 19px;
+    font-size: 48px;
+    color: #22356F;
+    line-height: 53px;
+    letter-spacing: -0.035em;
+}
+.introduction{
+    height: 161px;
+    width: 469px;
+    padding-bottom: 63px;
+    font-size: 24px;
+    color: #22356F;
+    line-height: 42px;
+    font-weight: bold;
+}
+.buttons{
+    width: 338px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.button_1{
+    background-color: #F9B640;
+    height: 50px;
+    width: 150px;
+}
+.who{
+    font-size: 16px;
+    line-height: 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 0.1em;
+    color: white;
+    font-weight: bold;
+}
+.button_2{
+    font-size: 16px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: 0.1em;
+    color: #FAB63E;
+    font-weight: bold;
+}
+.conteiner{
+    display: flex;
+    width: 100%;
+}
+.conteiner_1{
+    display: flex;
+    width: 100%;
+    margin-bottom: 120px;
+}
+.block{
+    height: 96px;
+    width: 340px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid white;
+}
+.block1{
+    height: 72px;
+    width: 255px;
+    margin-bottom: 23px;
+    border-bottom: 1px solid white;
+}
+.block_1, .block_2,
+.block_3, .block_4 {
+    block-size: 360px;
+    padding: 0 52.5px;
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+}
+.block_1{
+    background-color: #FFE2DE;
+}
+.block_2{
+    background-color: #C4E769;
+}
+.block_3{
+    background-color: #62D0DF;
+}
+.block_4{
+    background-color: #0052C1;
+}
+.block_5, .block_6,
+.block_7, .block_8,
+.block_9, .block_10{
+    block-size: 480px;
+    padding: 0 70px;
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+}
+.block_5{
+    background-color: #22356F;
+}
+.block_6{
+    background-color: #0052C1;
+}
+.block_7{
+    background-color: #62D0DF;
+    background-image: url(Aaa.png);
+    background-size: 100%;
+}
+.block_8{
+    background-color: #62D0DF;
+}
+.block_9{
+    background-color: #DEE1FF;
+}
+.block_10{
+    background-color: #8F00FF;
+}
+.space_word_1{
+    box-sizing: 120px;
+    color: rgba(34, 53, 111, 0.5);
+    font-size: 16px;
+    padding-top: 75px;
+    padding-bottom: 25px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.space_word_2{
+    height: 210px;
+    width: 592px;
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: bold;
+    margin-top: 150px;
+    margin-right: 424px;
+    letter-spacing: 0.005em;
+    color: #22356F;
+}
+.repository_2{
+    display: flex;
+    height: 361px;
+    width: 100%;
+    
+}
+.about{
+    margin: 156px 225px 0 106px;
+    font-family: Larsseit;
+    font-size: 16px;
+    line-height: 23px;
+    letter-spacing: 0.06em;
+    color: #22356F;
+}
+.conteiner_2{
+    display:flex;
+    width: 100%;
+    height: 600px;
+}
+.repository{
+    width: 554px;
+    background-color: #62D0DF;
+    padding: 151px 180px 95px;
+    color: white;
+}
+.bold_big{
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 75px;
+}
+.bold_small{
+    font-size: 24px;
+    font-weight: bold;
+}
+.some{
+    font-size: 20px;
+    line-height: 35px;
+}
+.picture{
+    height: 600px;
+    width: 526px;
+}
